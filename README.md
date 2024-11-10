@@ -15,7 +15,7 @@ You will be able to explore the work of photographers and their customers.
 ***Whats new?***
 
 - Adaptation for smartphones(430x700px)
-- Margins
+- Fixed Margins
 - Little animations<br>
   ***Check changes in the video!***
 
